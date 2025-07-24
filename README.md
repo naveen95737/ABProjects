@@ -45,6 +45,14 @@ Each visualization includes:
 
 ---
 
+## 📈 Tableau Summary Dashboard
+
+![Hotel Reservations Dashboard](./ef35b98d-ceed-4875-abcb-83889b5e5399.png)
+
+> The dashboard highlights booking trends, ADR vs. lead time, guest segmentation, and key KPIs including cancellation rate and average daily rate.
+
+---
+
 ## 📁 Files in the Repository
 
 - `EDA_Hotel_Booking_Analysis.ipynb`: Full analysis notebook with code, plots, and insights
