@@ -47,7 +47,7 @@ Each visualization includes:
 
 ## 📈 Tableau Summary Dashboard
 
-DashBoard Image.jpg
+![Hotel Reservations Dashboard](DashBoard Image.jpg)
 
 > The dashboard highlights booking trends, ADR vs. lead time, guest segmentation, and key KPIs including cancellation rate and average daily rate.
 
