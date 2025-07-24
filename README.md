@@ -49,7 +49,7 @@ Each visualization includes:
 
 - `EDA_Hotel_Booking_Analysis.ipynb`: Full analysis notebook with code, plots, and insights
 - `cleaned_booking_data.csv`: Processed dataset after handling missing values and feature engineering
-- `hotel_booking_dashboard.twbx`: Tableau dashboard file (optional upload)
+- `hotel_booking_dashboard.twbx`: Tableau dashboard file
 - `README.md`: Project overview
 
 ---
